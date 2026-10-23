@@ -1,8 +1,9 @@
 ## Welcome to the SoGE GitHub Page
 
-This is the public research portal for the **School of Geography and the Environment** at **University of Oxford**. 
+This is the GitHub research portal for the **School of Geography and the Environment** at **University of Oxford**. 
 
-We host academic research code, lab toolkits and course materials.
+We host academic research code, lab toolkits and code-based course materials.
+
 
 ### Department Links
 * [SoGE Homepage](https://www.geog.ox.ac.uk/)
@@ -20,6 +21,7 @@ We host academic research code, lab toolkits and course materials.
 
 #### For Students:
 * **Academic Integrity:** When utilizing template code or starter repositories for courses, ensure you strictly adhere to the university’s **Academic Integrity Policy**. Do not fork course assignment repositories into public personal accounts if it violates course rules.
+
 
 #### For Researchers & Faculty:
 * **Reproducible Research:** We encourage publishing code alongside academic papers. Please ensure you include a `LICENSE` file (such as MIT, Apache 2.0, or GPL) and a `CITATION.cff` file so others can properly credit your work.
